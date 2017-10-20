@@ -1,0 +1,1 @@
+var fraseBienvenida = prompt("¡Bienvenido! Introduzca su número de tarjeta de crédito")
